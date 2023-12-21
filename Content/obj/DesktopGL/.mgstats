@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Workspace/lumberjack/Content/Jean_Giraud_moebius02_big.jpg","D:/Workspace/lumberjack/Content/bin/DesktopGL/Jean_Giraud_moebius02_big.xnb","TextureProcessor","Texture2DContent",127175,2992085,0,1427758
+"D:/Workspace/lumberjack/Content/textures/Jean_Giraud_1.jpeg","D:/Workspace/lumberjack/Content/bin/DesktopGL/textures/Jean_Giraud_1.xnb","TextureProcessor","Texture2DContent",220370,4226485,0,1000095
+"D:/Workspace/lumberjack/Content/textures/Jean_Giraud_moebius04_big.jpg","D:/Workspace/lumberjack/Content/bin/DesktopGL/textures/Jean_Giraud_moebius04_big.xnb","TextureProcessor","Texture2DContent",222422,4560085,0,089207
